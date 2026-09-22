@@ -2,3 +2,5 @@
 texto añadido desde la rama principal
 
 esto lo he añadido para probar la segunda versión
+
+esto lo añado desde la rama paralela
